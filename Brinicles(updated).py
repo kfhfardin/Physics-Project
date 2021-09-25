@@ -11,7 +11,7 @@ from scipy.optimize import fsolve
 import matplotlib.pyplot as plt
 from matplotlib import cm
 
-
+#fafefe
 # %% Functions
 
 #  This is the advection reaction diffusion solver.
