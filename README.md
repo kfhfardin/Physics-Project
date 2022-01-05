@@ -1,2 +1,2 @@
 # Physics-Project
-Pattern Simulation ( Brinicles)
+Pattern Simulation (Brinicles)
